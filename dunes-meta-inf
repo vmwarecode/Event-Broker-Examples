@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>UTF-16</comment>
+<entry key="vso-build-nb">3310137</entry>
+<entry key="pkg-description"/>
+<entry key="pkg-name">extendingclouds.eb.examples</entry>
+<entry key="used-plugins">VC#6.0.2</entry>
+<entry key="pkg-signer">O=VMware,OU=Unknow,CN=vCO va-vra.biteback.records 53a5a77b-3abd-4723-b585-2de7d61c47ff</entry>
+<entry key="pkg-owner">O=VMware,OU=Unknow,CN=vCO va-vra.biteback.records d29a7e51-a94d-4f4b-89b5-5827113e89c6</entry>
+<entry key="vso-version">7.0.0.3310137</entry>
+<entry key="pkg-id">ff808081523680cd01523bbc17b7005b</entry>
+</properties>
